@@ -3,11 +3,11 @@
 This code is from this blog posting
 http://www.syntaxsuccess.com/viewarticle/writing-jasmine-unit-tests-in-es6
 
-Since the posting is outdated, I updated the codes to work with new babel modules.
+Since code in the posting is outdated, I updated the codes to work with the latest babel modules.
 
 ## Building and running test ##
 
-```bas
+```bash
 git clone https://github.com/zirho/karma-es6-babel-webpack
 cd karma-es6-babel-webpack
 npm i
